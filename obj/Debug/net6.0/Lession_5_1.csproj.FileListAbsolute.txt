@@ -1,0 +1,15 @@
+C:\Users\kosty\OneDrive\Рабочий стол\Lession_5_1\bin\Debug\net6.0\Lession_5_1.exe
+C:\Users\kosty\OneDrive\Рабочий стол\Lession_5_1\bin\Debug\net6.0\Lession_5_1.deps.json
+C:\Users\kosty\OneDrive\Рабочий стол\Lession_5_1\bin\Debug\net6.0\Lession_5_1.runtimeconfig.json
+C:\Users\kosty\OneDrive\Рабочий стол\Lession_5_1\bin\Debug\net6.0\Lession_5_1.dll
+C:\Users\kosty\OneDrive\Рабочий стол\Lession_5_1\bin\Debug\net6.0\Lession_5_1.pdb
+C:\Users\kosty\OneDrive\Рабочий стол\Lession_5_1\obj\Debug\net6.0\Lession_5_1.csproj.AssemblyReference.cache
+C:\Users\kosty\OneDrive\Рабочий стол\Lession_5_1\obj\Debug\net6.0\Lession_5_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosty\OneDrive\Рабочий стол\Lession_5_1\obj\Debug\net6.0\Lession_5_1.AssemblyInfoInputs.cache
+C:\Users\kosty\OneDrive\Рабочий стол\Lession_5_1\obj\Debug\net6.0\Lession_5_1.AssemblyInfo.cs
+C:\Users\kosty\OneDrive\Рабочий стол\Lession_5_1\obj\Debug\net6.0\Lession_5_1.csproj.CoreCompileInputs.cache
+C:\Users\kosty\OneDrive\Рабочий стол\Lession_5_1\obj\Debug\net6.0\Lession_5_1.dll
+C:\Users\kosty\OneDrive\Рабочий стол\Lession_5_1\obj\Debug\net6.0\refint\Lession_5_1.dll
+C:\Users\kosty\OneDrive\Рабочий стол\Lession_5_1\obj\Debug\net6.0\Lession_5_1.pdb
+C:\Users\kosty\OneDrive\Рабочий стол\Lession_5_1\obj\Debug\net6.0\Lession_5_1.genruntimeconfig.cache
+C:\Users\kosty\OneDrive\Рабочий стол\Lession_5_1\obj\Debug\net6.0\ref\Lession_5_1.dll
